@@ -2,7 +2,7 @@
 - 👀 I’m interested in applying Fluorescence Lifetime Imaging techniques for the diagnosis of retinal diseases
 - 🌱 I’m currently working on fitting FLIM TCSPC data and interpreting results for chemical / fluorophore discrimination
 
-- 📫 Email d.geddes.1@research.gla.ac.uk for a chat about my work, abysmal code, or a good ol' argument over the merits of Python vs MATLAB (hint: MATLAB is king)
+- 📫 Email d.geddes.1@research.gla.ac.uk for a chat about my work, abysmal code, or anything else really
 
 <!---
 dgeddesICG/dgeddesICG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
